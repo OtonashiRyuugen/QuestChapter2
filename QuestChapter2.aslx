@@ -7,13 +7,9 @@
     <version>1.0</version>
     <firstpublished>2023</firstpublished>
     <author>Dylan VanderWal</author>
+    <gridmap />
   </game>
-  <object name="room">
+  <object name="Entrance Hall">
     <inherit name="editor_room" />
-    <isroom />
-    <object name="player">
-      <inherit name="editor_object" />
-      <inherit name="editor_player" />
-    </object>
   </object>
 </asl>
